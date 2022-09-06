@@ -1,0 +1,39 @@
+body{
+    background-color: #DADAD9;
+}
+header{
+    margin: 0,auto;
+}
+p{
+    font-size:17px;
+}
+h1{
+    text-align: center;
+    color: #F06449
+}
+.container{
+    margin: 0 auto;
+    width:750px;
+    background-color: #F06449;
+    height:900px;
+    display: table;
+}
+.table{
+    margin: auto;
+    margin-top: 2.7%;
+    width:95%;
+    height:95%;
+    background-color:white
+}
+.week{
+    width:90%;
+    margin:0 auto;
+}
+.date{
+    padding-top: 1.5em;
+}
+.paragraph{
+    line-height: 20px;
+    text-indent: 30px;
+    padding-top:1em;
+}
