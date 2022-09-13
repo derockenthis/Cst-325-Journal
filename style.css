@@ -37,3 +37,10 @@ h1{
     text-indent: 30px;
     padding-top:1em;
 }
+
+hr{
+    height:10px;
+    background-color: #F06449;
+    width:90%;
+
+}
